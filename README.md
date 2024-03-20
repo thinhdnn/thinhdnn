@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Nguyen</h1>
-<h3 align="center">A software engineer from Vietnam</h3>
+<h3 align="center">A mixed engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhdnn&label=Profile%20views&color=0e75b6&style=flat" alt="thinhdnn" /> </p>
 
