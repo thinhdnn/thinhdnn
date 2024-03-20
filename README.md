@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [SikuliX1](https://github.com/RaiMan/SikuliX1)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nguyenvanthinh.dnn@gmail.com</h3>
 <p align="left">
 </p>
 
