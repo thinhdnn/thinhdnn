@@ -11,6 +11,7 @@
 - 🔭 Working on [newman-reporter-slacknotification](https://www.npmjs.com/package/newman-reporter-slacknotification)
 - 🔭 Working on [Json Cleaner](https://cleanup-json.vercel.app) / https://github.com/thinhdnn/cleanup-json
 - 🔭 Working on [Langchain Learning](https://github.com/thinhdnn/learning-langchain)
+- 👯 Contribute on [https://github.com/TDesktop-x64/tdesktop]
 - 👯 I’m looking to collaborate on [postman-portable](https://github.com/portapps/postman-portable)
 
 - 🤝 I’m looking for help with [SikuliX1](https://github.com/RaiMan/SikuliX1)
