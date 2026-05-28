@@ -14,7 +14,6 @@
 - 👯 Contribute on [https://github.com/TDesktop-x64/tdesktop]
 - 👯 I’m looking to collaborate on [postman-portable](https://github.com/portapps/postman-portable)
 
-<h3 align="left">Connect with me: nguyenvanthinh.dnn@gmail.com</h3>
 <p align="left">
 </p>
 
