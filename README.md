@@ -3,12 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinhdnn&label=Profile%20views&color=0e75b6&style=flat" alt="thinhdnn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinhdnn" alt="thinhdnn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [robotframework-AppiumSikuliLibrary](https://pypi.org/project/robotframework-AppiumSikuliLibrary/)
--    Working on [Appium support on Oculix](https://github.com/oculix-org/Oculix/issues/347)
+- 🔭 Working on [Appium support on Oculix](https://github.com/oculix-org/Oculix/issues/347)
 - 🔭 Worked on [newman-reporter-slacknotification](https://www.npmjs.com/package/newman-reporter-slacknotification)
 - 🔭 Worked on [Json Cleaner](https://cleanup-json.vercel.app) / https://github.com/thinhdnn/cleanup-json
 - 👯 Contribute on [https://github.com/TDesktop-x64/tdesktop]
