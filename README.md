@@ -8,13 +8,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [robotframework-AppiumSikuliLibrary](https://pypi.org/project/robotframework-AppiumSikuliLibrary/)
-- 🔭 Working on [newman-reporter-slacknotification](https://www.npmjs.com/package/newman-reporter-slacknotification)
-- 🔭 Working on [Json Cleaner](https://cleanup-json.vercel.app) / https://github.com/thinhdnn/cleanup-json
-- 🔭 Working on [Langchain Learning](https://github.com/thinhdnn/learning-langchain)
+-    Working on [Appium support on Oculix](https://github.com/oculix-org/Oculix/issues/347)
+- 🔭 Worked on [newman-reporter-slacknotification](https://www.npmjs.com/package/newman-reporter-slacknotification)
+- 🔭 Worked on [Json Cleaner](https://cleanup-json.vercel.app) / https://github.com/thinhdnn/cleanup-json
 - 👯 Contribute on [https://github.com/TDesktop-x64/tdesktop]
 - 👯 I’m looking to collaborate on [postman-portable](https://github.com/portapps/postman-portable)
-
-- 🤝 I’m looking for help with [SikuliX1](https://github.com/RaiMan/SikuliX1)
 
 <h3 align="left">Connect with me: nguyenvanthinh.dnn@gmail.com</h3>
 <p align="left">
